@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TimerAndStopwatch",
+            "request": "launch",
+            "mainClass": "TimerAndStopwatch",
+            "projectName": "Timer and StopWatch_43318943"
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        }
+    ]
+}
